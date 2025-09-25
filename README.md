@@ -8,11 +8,13 @@ a. Handled missing values, normalized features, and prepared time series sequenc
 
 b. Converted raw air quality data into supervised learning format for LSTM input
 
+
 2. Model Architecture
 
 a. Implemented an LSTM neural network for time series prediction
 
 b. Tuned hyperparameters such as sequence length, batch size, and number of layers
+
 
 3. Training & Evaluation
 
